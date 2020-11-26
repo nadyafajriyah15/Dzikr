@@ -1,0 +1,14 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#8667B3</item>
+        <item name="colorPrimaryDark">#C50094</item>
+        <item name="colorAccent">#ADECD6E7</item>
+    </style>
+    <style name="Splashscreen" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>
